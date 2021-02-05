@@ -1,6 +1,6 @@
-### Hello, I am Shahriar Momen 👋
+### Hello, I am Shahriar Momen 👋.A self-taught, passionate and fast-learner Android Application developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing Mobile applications 🔭. Currently, I am learning how to improve the performance of progressive Android applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the Android App 🚀.
 
-- 🔭 I’m currently working on Android Studio Project.
+- 🔭 I’m currently working on Android Studio Project and Firebase Database.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Velocityx Documentation.
