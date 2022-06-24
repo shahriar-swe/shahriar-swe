@@ -1,7 +1,7 @@
 ### Hello there, I am Shahriar Momen 👋
 A self-taught, passionate and fast-learner Mobile Application developer (Flutter) from Dhaka, 🇧🇩 🌎. Now I'm a completed my Graduation fron Department of Software Engineering, Daffodil International University👨‍🎓. I love to work with new technologies and developing Mobile applications 🔭. Currently, I am learning how to improve the performance of progressive Mobile applications for better user experience 🌱🚀.
 
-- 🔭 I’m currently working on Android Studio Project and Firebase Database.
+- 🔭 I’m currently working on Flutter Project, Firebase Database, Rest Apis and Hive Database.
 - 👯 I’m looking for opportunities to work with a talented team.
 - 🤔 I’m looking for help with Velocityx Documentation.
 - 💬 Ask me about Flutter Project, Dart, Java, or any technical related stuff.
